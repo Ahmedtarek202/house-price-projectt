@@ -4,4 +4,3 @@ __pycache__/
 .env
 *.log
 .ipynb_checkpoints/
-notebooks/data/house_prices.csv
